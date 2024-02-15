@@ -1,0 +1,6 @@
+1, Harsh , harsh@icloud.com, 6564646854, 1001, 5 Star, 26, Rs260, Thu Oct 19 06:58:25 2023
+1, kapoor, kapoor@rediffmail.com, 65465465454, 1003, Candy, 200, Rs400, Thu Oct 19 06:58:51 2023
+1, arpita, arpita@gmail.com, 6664646458, 1002, Bar-One, 5, Rs100, Thu Oct 19 06:59:10 2023
+1, aryan, aryan@hotmail.com, 6464644, 1004, Chocolate Cake, 1, Rs550, Thu Oct 19 06:59:52 2023
+1, Stanley, Stanley@gmail.com, 6453168543, 1003, Candy, 5, Rs10, Thu Oct 19 12:50:44 2023
+1, Daniel, Daniel@gmail.com, 5365463514, 1003, Candy, 12, Rs24, Thu Oct 19 13:48:48 2023
